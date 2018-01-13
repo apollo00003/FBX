@@ -1,0 +1,15 @@
+c:\users\dunaj\documents\visual studio 2015\Projects\zaliczenie_ld_308\zaliczenie_ld_308\bin\Debug\zaliczenie_ld_308.exe.config
+c:\users\dunaj\documents\visual studio 2015\Projects\zaliczenie_ld_308\zaliczenie_ld_308\bin\Debug\zaliczenie_ld_308.exe
+c:\users\dunaj\documents\visual studio 2015\Projects\zaliczenie_ld_308\zaliczenie_ld_308\bin\Debug\zaliczenie_ld_308.pdb
+c:\users\dunaj\documents\visual studio 2015\Projects\zaliczenie_ld_308\zaliczenie_ld_308\obj\Debug\zaliczenie_ld_308.csprojResolveAssemblyReference.cache
+c:\users\dunaj\documents\visual studio 2015\Projects\zaliczenie_ld_308\zaliczenie_ld_308\obj\Debug\zaliczenie_ld_308.exe
+c:\users\dunaj\documents\visual studio 2015\Projects\zaliczenie_ld_308\zaliczenie_ld_308\obj\Debug\zaliczenie_ld_308.pdb
+C:\Users\dunaj\source\repos\zaliczenie_ld_308\zaliczenie_ld_308\bin\Debug\zaliczenie_ld_308.exe.config
+C:\Users\dunaj\source\repos\zaliczenie_ld_308\zaliczenie_ld_308\bin\Debug\zaliczenie_ld_308.exe
+C:\Users\dunaj\source\repos\zaliczenie_ld_308\zaliczenie_ld_308\bin\Debug\zaliczenie_ld_308.pdb
+C:\Users\dunaj\source\repos\zaliczenie_ld_308\zaliczenie_ld_308\obj\Debug\zaliczenie_ld_308.csproj.CoreCompileInputs.cache
+C:\Users\dunaj\source\repos\zaliczenie_ld_308\zaliczenie_ld_308\obj\Debug\zaliczenie_ld_308.exe
+C:\Users\dunaj\source\repos\zaliczenie_ld_308\zaliczenie_ld_308\obj\Debug\zaliczenie_ld_308.pdb
+C:\Users\dunaj\source\repos\zaliczenie_ld_308\zaliczenie_ld_308\bin\Debug\MySql.Data.dll
+C:\Users\dunaj\source\repos\zaliczenie_ld_308\zaliczenie_ld_308\bin\Debug\MySql.Data.xml
+C:\Users\dunaj\source\repos\zaliczenie_ld_308\zaliczenie_ld_308\obj\Debug\zaliczenie_ld_308.csprojResolveAssemblyReference.cache
